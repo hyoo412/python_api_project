@@ -1,3 +1,5 @@
+Used API:
+
 weather: https://open-meteo.com/en/docs https://api.open-meteo.com/v1/forecast?latitude=(latitude)&longitude=(longitude)$hourly=temperature_2m location: https://www.geojs.io/docs/v1/endpoints/country/ https://get.geojs.io/v1/ip/country(ip address)
 
 Summary of Program:
